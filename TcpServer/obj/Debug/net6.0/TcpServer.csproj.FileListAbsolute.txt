@@ -1,0 +1,14 @@
+C:\Delta\TCP\TcpServer\bin\Debug\net6.0\TcpServer.exe
+C:\Delta\TCP\TcpServer\bin\Debug\net6.0\TcpServer.deps.json
+C:\Delta\TCP\TcpServer\bin\Debug\net6.0\TcpServer.runtimeconfig.json
+C:\Delta\TCP\TcpServer\bin\Debug\net6.0\TcpServer.dll
+C:\Delta\TCP\TcpServer\bin\Debug\net6.0\TcpServer.pdb
+C:\Delta\TCP\TcpServer\obj\Debug\net6.0\TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Delta\TCP\TcpServer\obj\Debug\net6.0\TcpServer.AssemblyInfoInputs.cache
+C:\Delta\TCP\TcpServer\obj\Debug\net6.0\TcpServer.AssemblyInfo.cs
+C:\Delta\TCP\TcpServer\obj\Debug\net6.0\TcpServer.csproj.CoreCompileInputs.cache
+C:\Delta\TCP\TcpServer\obj\Debug\net6.0\TcpServer.dll
+C:\Delta\TCP\TcpServer\obj\Debug\net6.0\refint\TcpServer.dll
+C:\Delta\TCP\TcpServer\obj\Debug\net6.0\TcpServer.pdb
+C:\Delta\TCP\TcpServer\obj\Debug\net6.0\TcpServer.genruntimeconfig.cache
+C:\Delta\TCP\TcpServer\obj\Debug\net6.0\ref\TcpServer.dll

@@ -1,0 +1,14 @@
+C:\Delta\TCP\TcpClient\obj\Debug\net8.0\TcpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Delta\TCP\TcpClient\obj\Debug\net8.0\TcpClient.AssemblyInfoInputs.cache
+C:\Delta\TCP\TcpClient\obj\Debug\net8.0\TcpClient.AssemblyInfo.cs
+C:\Delta\TCP\TcpClient\obj\Debug\net8.0\TcpClient.csproj.CoreCompileInputs.cache
+C:\Delta\TCP\TcpClient\bin\Debug\net8.0\TcpClient.exe
+C:\Delta\TCP\TcpClient\bin\Debug\net8.0\TcpClient.deps.json
+C:\Delta\TCP\TcpClient\bin\Debug\net8.0\TcpClient.runtimeconfig.json
+C:\Delta\TCP\TcpClient\bin\Debug\net8.0\TcpClient.dll
+C:\Delta\TCP\TcpClient\bin\Debug\net8.0\TcpClient.pdb
+C:\Delta\TCP\TcpClient\obj\Debug\net8.0\TcpClient.dll
+C:\Delta\TCP\TcpClient\obj\Debug\net8.0\refint\TcpClient.dll
+C:\Delta\TCP\TcpClient\obj\Debug\net8.0\TcpClient.pdb
+C:\Delta\TCP\TcpClient\obj\Debug\net8.0\TcpClient.genruntimeconfig.cache
+C:\Delta\TCP\TcpClient\obj\Debug\net8.0\ref\TcpClient.dll
