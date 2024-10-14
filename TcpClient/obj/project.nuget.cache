@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4mxgLZB+KU4=",
+  "dgSpecHash": "c3GuDzWN7Ng=",
   "success": true,
-  "projectFilePath": "C:\\Delta\\TCP\\TcpClient\\TcpClient.csproj",
+  "projectFilePath": "C:\\TCP\\TCPIP_learning\\TcpClient\\TcpClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

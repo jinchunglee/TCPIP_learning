@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Delta\\TCP\\TcpServer\\TcpServer.csproj",
+      "projectUniqueName": "C:\\TCP\\TCPIP_learning\\TcpServer\\TcpServer.csproj",
       "projectName": "TcpServer",
-      "projectPath": "C:\\Delta\\TCP\\TcpServer\\TcpServer.csproj",
+      "projectPath": "C:\\TCP\\TCPIP_learning\\TcpServer\\TcpServer.csproj",
       "packagesPath": "C:\\Users\\james\\.nuget\\packages\\",
-      "outputPath": "C:\\Delta\\TCP\\TcpServer\\obj\\",
+      "outputPath": "C:\\TCP\\TCPIP_learning\\TcpServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
